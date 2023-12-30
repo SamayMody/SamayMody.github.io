@@ -11,4 +11,4 @@
 - Running text
 
 #### Click on the link below to have a view of my portfolio website!
-[https://samaymody.github.io./](https://samaymody.github.io./)
+[https://samaymody.github.io/](https://samaymody.github.io/)
